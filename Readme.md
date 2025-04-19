@@ -25,13 +25,6 @@ My-Certification/
 
 Semua sertifikat disimpan dalam folder `certificates/`. Anda bisa melihatnya langsung di GitHub atau mengunduhnya jika diperlukan.
 
-## 📌 Cara Berkontribusi
-
-Jika Anda ingin menambahkan atau merekomendasikan sertifikasi yang relevan, Anda bisa:
-
-1. Membuka **Issue** untuk memberikan saran.
-2. Mengajukan **Pull Request** dengan menambahkan file sertifikat ke folder yang sesuai.
-
 ## 🔗 Kontak
 
 Jika Anda memiliki pertanyaan atau ingin berdiskusi lebih lanjut, jangan ragu untuk menghubungi saya melalui:
